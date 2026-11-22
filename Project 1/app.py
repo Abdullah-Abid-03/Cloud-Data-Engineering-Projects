@@ -1,3 +1,4 @@
+import utils.transport
 import utils.session
 import requests
 import pandas as pd
